@@ -1,2 +1,4 @@
 emailWebcamDetection
 __pycache__
+/env.py
+/images
